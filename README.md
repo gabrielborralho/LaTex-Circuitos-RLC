@@ -1,3 +1,7 @@
 # LaTex-Circuitos-RLC
 
-# Veja `CIRCUITOS_RLC.pdf`
+Utilize https://pt.sharelatex.com para editar `CE-RLC.tex`
+
+O arquivo de saída é `CIRCUITOS_RLC.pdf`
+
+
